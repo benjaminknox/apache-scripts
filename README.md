@@ -5,3 +5,6 @@ This is a collection of Apache scripts that I have found very useful.
     - webdav.conf
 2) A Simple Local Proxy - creates a proxy to an app being hosted on a localhost port 
     - simple-local-port-proxy.conf
+3) A Mastodon Apache Proxy - creates a proxy to a dockerized mastodon being hosted on a localhost port 
+    - mastodon.conf
+    - https://github.com/tootsuite/mastodon
