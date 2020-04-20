@@ -8,3 +8,6 @@ This is a collection of Apache scripts that I have found very useful.
 3) A Mastodon Apache Proxy - creates a proxy to a dockerized mastodon being hosted on a localhost port 
     - mastodon.conf
     - https://github.com/tootsuite/mastodon
+4) A proxy to rancher - creates a proxy to rancher with SSL installed
+    - rancher-proxy-ssl.conf
+    - https://rancher.com/
